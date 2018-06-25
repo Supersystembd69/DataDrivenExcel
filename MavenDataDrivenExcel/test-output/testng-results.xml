@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-06-25T16:45:19Z" name="Default suite" finished-at="2018-06-25T16:45:49Z" duration-ms="29735">
+  <suite started-at="2018-06-25T19:17:06Z" name="Suite" finished-at="2018-06-25T19:18:06Z" duration-ms="60094">
     <groups>
     </groups>
-    <test started-at="2018-06-25T16:45:19Z" name="Default test" finished-at="2018-06-25T16:45:49Z" duration-ms="29735">
+    <test started-at="2018-06-25T19:17:06Z" name="Test" finished-at="2018-06-25T19:18:06Z" duration-ms="60094">
       <class name="dataPrivider.Xpath">
-        <test-method is-config="true" signature="setup()[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:19Z" name="setup" finished-at="2018-06-25T16:45:23Z" duration-ms="3674" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:24Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:27Z" duration-ms="3747" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:14Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:18Z" duration-ms="3849" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -62,7 +58,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:27Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:31Z" duration-ms="3507" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:18Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:21Z" duration-ms="3597" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -113,7 +109,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:31Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:34Z" duration-ms="3478" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:21Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:25Z" duration-ms="3572" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -164,7 +160,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:34Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:38Z" duration-ms="3579" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:25Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:28Z" duration-ms="3723" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -215,7 +211,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:38Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:41Z" duration-ms="3500" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:28Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:32Z" duration-ms="3832" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -266,7 +262,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:41Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:45Z" duration-ms="3516" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:32Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:36Z" duration-ms="4031" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -317,7 +313,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:45Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T16:45:48Z" duration-ms="3468" status="PASS">
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:36Z" name="FacebookSignUp" data-provider="Testdata" finished-at="2018-06-25T19:17:40Z" duration-ms="3731" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -368,11 +364,446 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:dataPrivider.Xpath@69fb6037]" started-at="2018-06-25T16:45:48Z" name="closeBrowser" finished-at="2018-06-25T16:45:49Z" duration-ms="707" status="PASS">
+      </class> <!-- dataPrivider.Xpath -->
+      <class name="dataPrivider.Facebook">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:06Z" name="setup" finished-at="2018-06-25T19:17:10Z" duration-ms="3914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:17:10Z" name="setup" finished-at="2018-06-25T19:17:13Z" duration-ms="3240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:40Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:46Z" duration-ms="5600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4321]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jun]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1991]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:46Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:48Z" duration-ms="2350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mona]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4322]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jul]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1992]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:48Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:50Z" duration-ms="2038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mitu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Islam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4323]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aug]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:50Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:53Z" duration-ms="2870" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4324]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:53Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:55Z" duration-ms="2326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Farhan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zaman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4325]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Oct]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:55Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:17:58Z" duration-ms="2837" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4326]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nov]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1996]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:17:58Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T19:18:01Z" duration-ms="2430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sonia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sultana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4327]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Dec]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1997]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:dataPrivider.Facebook@87a85e1]" started-at="2018-06-25T19:18:01Z" name="closeBrowser" finished-at="2018-06-25T19:18:04Z" duration-ms="2992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- dataPrivider.Xpath -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:dataPrivider.Xpath@36d585c]" started-at="2018-06-25T19:18:04Z" name="closeBrowser" finished-at="2018-06-25T19:18:06Z" duration-ms="2074" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LAPTOP-2GMD4EUC', ip: '192.168.1.139', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ARTARA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: 3f86eb459af8466f10d0385ec9e5e949]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LAPTOP-2GMD4EUC', ip: '192.168.1.139', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\ARTARA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: 3f86eb459af8466f10d0385ec9e5e949
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:433)
+at dataPrivider.Xpath.closeBrowser(Xpath.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:455)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.afterRun(TestRunner.java:725)
+at org.testng.TestRunner.run(TestRunner.java:509)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- dataPrivider.Facebook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
