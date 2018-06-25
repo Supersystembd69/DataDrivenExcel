@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dataPrivider.Facebook">
+      <class name="dataPrivider.Xpath">
         <methods>
-          <include name="setup"/>
           <include name="FacebookSignUp" invocation-numbers="0 1 2 3 4 5 6"/>
           <include name="closeBrowser"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- dataPrivider.Facebook -->
+      </class> <!-- dataPrivider.Xpath -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

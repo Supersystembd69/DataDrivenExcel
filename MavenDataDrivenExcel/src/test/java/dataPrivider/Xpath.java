@@ -41,7 +41,7 @@ public class Xpath {
 	@Test(dataProvider="Testdata")
 	public void FacebookSignUp(String FN, String LN,String EM, String AEM, String PW,String Sex, String MN, String DY,String YR) throws Exception{
 		
-		driver.get("file:///C:/Users/Admin/OneDrive/Dynamic/OurWebSite.html");
+		driver.get("file:///C:/Users/A%20R%20Tarafder/OneDrive/Dynamic/OurWebSite.html");
 		
 		driver.findElement(By.name("FName")).sendKeys(FN);
 		driver.findElement(By.name("LName")).sendKeys(LN);
@@ -71,7 +71,7 @@ public class Xpath {
 public Object[][] getDataFromDataprovider() throws IOException{
 	
     Object[][] object = null;
-    File file = new File("E:\\COMPANY_DATA\\FacebookData.xlsx");
+    File file = new File("E:\\CompanyData\\FacebookData.xlsx");
     FileInputStream fis=new FileInputStream(file);
 	Workbook wb =  new XSSFWorkbook(fis);
     Sheet ws = wb.getSheet("Data2");
