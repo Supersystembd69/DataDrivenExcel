@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-25T15:24:44Z" name="Default suite" finished-at="2018-06-25T15:25:08Z" duration-ms="24519">
+    <groups>
+    </groups>
+    <test started-at="2018-06-25T15:24:44Z" name="Default test" finished-at="2018-06-25T15:25:08Z" duration-ms="24519">
+      <class name="dataPrivider.Facebook">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:44Z" name="setup" finished-at="2018-06-25T15:24:48Z" duration-ms="3639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:48Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:24:52Z" duration-ms="4391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4321]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jun]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1991]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:52Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:24:55Z" duration-ms="2573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mona]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4322]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jul]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1992]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:55Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:24:57Z" duration-ms="2400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mitu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Islam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4323]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aug]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:57Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:24:59Z" duration-ms="2052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4324]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:24:59Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:25:01Z" duration-ms="1980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Farhan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zaman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4325]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Oct]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:25:01Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:25:04Z" duration-ms="2125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4326]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nov]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1996]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method signature="FacebookSignUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:25:04Z" name="FacebookSignUp" data-provider="Facebookdata" finished-at="2018-06-25T15:25:06Z" duration-ms="1934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sonia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sultana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[re4327]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Dec]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1997]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Femal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSignUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:dataPrivider.Facebook@36b4fe2a]" started-at="2018-06-25T15:25:06Z" name="closeBrowser" finished-at="2018-06-25T15:25:08Z" duration-ms="2877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- dataPrivider.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
